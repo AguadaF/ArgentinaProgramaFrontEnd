@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: burlywood;
+}
+
+app-social {
+    float: right;
+    margin-top: 25px;
+}
+
+.banner{
+    background-color:#38BCED
+}

@@ -1,0 +1,11 @@
+.container-fluid {
+    background-color: #f2c2b2;
+}
+
+.row {
+    padding: 20px;
+}
+
+h1 {
+    display: block;
+}

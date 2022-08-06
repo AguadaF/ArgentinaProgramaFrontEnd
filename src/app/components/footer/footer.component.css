@@ -1,0 +1,13 @@
+.container-fluid {
+    background-color: #f2c2b2;   
+}
+
+.row > div{ 
+    margin-top: 10px;
+}
+
+footer {   
+    color: rgb(22, 128, 228);
+    line-height: 0.5;
+    text-align: center;
+}
